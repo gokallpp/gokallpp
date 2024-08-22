@@ -41,12 +41,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/digdemorhan/digdemorhan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gokallpp/gokallpp/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digdemorhan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokallpp&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
