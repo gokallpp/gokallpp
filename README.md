@@ -19,28 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokallpp&show_icons=true&locale=en" alt="gokallpp" /></p>
 
 
-<h2 align="left">Hi 👋, I'm Diğdem Orhan.</h2>
-
-###
-
-<h3 align="left">I am working to become a web backend developer. I am professionally interested in Java and Java technologies.</h3>
-
-###
-
-<h4 align="left">My LinkedIn:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/di%C4%9Fdem-orhan-935733275/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h4 align="left">Languages and Tools:</h4>
-
 ###
 
 <div align="left">
