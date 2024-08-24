@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah GÖKALP</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-
+- 💻 I’m currently learning **Asp.Net, MVC, Web API, OOP, Fiori**
 - 📫 How to reach me **gokalppabdullah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
