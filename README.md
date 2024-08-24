@@ -24,19 +24,14 @@
     <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40" />
     <img src="https://www.svgrepo.com/show/342191/sap.svg" alt="SAP" width="40" height="40" />
     <img src="https://miro.medium.com/v2/resize:fit:854/1*wqnAwHqLk4e5fJ393pgUKQ.png" alt="UI5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    
-    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />   
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40" />
-    
-    
+    <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40" />    
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" />
     
 </p>
-
 
 
 ###
