@@ -6,6 +6,8 @@
 - 💻 I’m currently learning **Asp.Net, MVC, OOP, Web API, Mıcroservice**
 - 📫 How to reach me **gokalppabdullah@gmail.com**
 
+<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=umutatras&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClemeleri&color=0e75b6&style=flat" alt="umutatras" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullahgokalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullahgokalp" height="30" width="40" /></a>
