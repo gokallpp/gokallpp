@@ -1,4 +1,4 @@
-.NET Developer • C# & ASP.NET Core • Learning N-Tier Architecture & RESTful APIs
+𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 • 𝐂# & 𝐀𝐒𝐏.𝐍𝐄𝐓 𝐂𝐨𝐫𝐞 • 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐍-𝐓𝐢𝐞𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 & 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬
 
 ---
 
